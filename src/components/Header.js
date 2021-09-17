@@ -2,7 +2,7 @@ import React from "react";
 
 function Header(){
   return (
-    <h1>Credit Card Suggestor</h1>
+    <h1>Header if Needed</h1>
   );
 }
 
