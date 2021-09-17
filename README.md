@@ -2,7 +2,9 @@
 #### Friday, 09/17
 * 8:15: review Friday Independent Projects Overview
 * 8:45: review capstone proposal and brainstorm ideas
-* 9:30: add description, MVP, Stretch Goals to README
+* 9:30: Start project in VS code
+* 10:15: add description, MVP, Stretch Goals to README
+* 10:45: add starter codes, get react running, set up components
 
 
 ## Project Description
