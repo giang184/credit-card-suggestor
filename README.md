@@ -5,6 +5,7 @@
 * 9:30: Start project in VS code
 * 10:15: add description, MVP, Stretch Goals to README
 * 10:45: add starter codes, get react running, set up components
+* 11:15: Start coding!
 
 
 ## Project Description
